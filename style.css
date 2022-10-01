@@ -1,0 +1,13 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+h1{
+    font-size: large;
+    background-color: blueviolet;
+    color: black;
+    border: 10px solid goldenrod;
+    align-items: center;
+    position: absolute;
+    padding: 100px;
+}
